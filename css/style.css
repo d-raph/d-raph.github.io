@@ -1,0 +1,218 @@
+
+
+body{
+    font-family: orbitron;  
+    background-image: url(../assets/images/starrysky.jpg);
+    background-size: cover;
+    color:#f5f5dc;
+    
+    
+}
+/*
+container{
+    margin-bottom: 20px;
+}*/
+#el_1{
+    /*background-color: rgb(0, 4, 37);*/
+    
+    font-size: large;  
+}
+button{
+    background-color: transparent;
+    border: solid;
+    border-color:#f5f5dc;
+    border-radius: 30%;
+    color: #f5f5dc;
+    
+    /*margin-bottom: ;*/
+}
+button:hover{
+    color: black;
+    background-color:#f5f5dc;
+    border-color:black;
+}
+
+
+#el_1 img{
+ border-radius: 20%;
+ 
+}
+
+.row{
+    margin-bottom: 5em;
+    margin-top: 5em;
+    padding-top: 50px;
+  
+}
+
+.el_2b{
+    text-align: center;
+    border: solid;
+    border-radius: 20%;
+    margin-left: 5%;
+    margin-right: 5%;    
+    border-color: black; 
+  
+}
+
+.el_2b h2{
+    border-top: solid;
+    border-color: black;
+}
+
+
+
+.logo{
+    width:20%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+#caz_2-1{
+    background-image: url(../assets/images/starcraft-starcraft-ii-heart-of-the-swarm-video-games-starcraft-ii-wallpaper-preview.jpg);
+    background-size: cover;
+    /*height: 100%;*/
+    
+}
+#caz_2-2{
+    background-image: url(../assets/images/battlecruiser2.jpg);
+    background-size: cover;
+    /*height: 100%;*/
+}
+#caz_2-3{
+    background-image: url(../assets/images/carrier.jpeg);
+    background-size: cover;
+    /*height: 100%;*/
+}
+
+#el_3 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#caz_3-1{
+    height: 100%;
+    border:solid;
+    border-color: #f5f5dc;
+    border-radius: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+#caz_4-1{
+    height: 100%;
+    border:solid;
+    border-color: #f5f5dc;
+    border-radius: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#caz_3-2{
+    height: 100%;
+    border-radius: 20%;
+}
+
+
+#el_5{
+    text-align: center;
+}
+
+#el_5 h2{
+    margin-bottom: 5%;
+}
+
+.el_5b img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10%;
+    
+}
+
+.el_5b{
+    
+    text-align: center;
+    height: 100%;
+    margin-left: 10%;
+    margin-right: 10%
+}
+
+nav{
+   
+    background-color:  #10002cd3;
+    display: flex;
+    width: 100%;
+}
+
+
+
+
+nav a{
+    text-decoration: none;
+    color: #f5f5dc;
+    border-radius: 23%;
+    
+}
+
+
+nav a:hover{
+    background-color: #f5f5dc;
+    color: black;
+    
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-left: 20%;
+    white-space: nowrap;
+}
+nav li {
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+#navgauche{
+    font-size: xx-large;
+
+}
+
+.carousel-control-prev, .carousel-control-next{
+    height: 25%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.carousel-inner{
+    margin-top: 100px;
+    border-radius: 20%;
+}
+
+#faq .container{
+    margin-bottom: 100px;
+
+}
+.accordion-item{
+    background-color: transparent;
+    color: #f5f5dc;
+}
+#faq h2,button{
+    background-color: transparent;
+}
+
+#contact li {
+    background-color: transparent;
+    color: #f5f5dc;
+    border: solid;
+    border-color: #f5f5dc;
+    border-radius: 30%;
+}
